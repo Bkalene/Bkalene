@@ -26,7 +26,7 @@ ___________
 ---------
 ![Brisa GitHub stats](https://github-readme-stats.vercel.app/api?username=Bkalene&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bkalene)](https://github.com/Bkalene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bkalene&show_icons=true&theme=radical)](https://github.com/Bkalene/github-readme-stats)
           
           
 
