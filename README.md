@@ -19,7 +19,8 @@ _______________________
 | Colaboração no Github | [Certificado](https://drive.google.com/file/d/1pEH7FCBg796jZLDTLeOno25Ppf_s7BC7/view?usp=sharing) |
 | Power BI | [Certificado](https://drive.google.com/file/d/1CQr7wGnokb_rjz4nW5VTVwZUnKwhw40Q/view?usp=sharing) |
           
-          
+---------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
           
           
 
