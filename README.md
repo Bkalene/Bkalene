@@ -20,7 +20,7 @@ _______________________
 | Power BI | [Certificado](https://drive.google.com/file/d/1CQr7wGnokb_rjz4nW5VTVwZUnKwhw40Q/view?usp=sharing) |
           
 ---------
-![Brisa GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Brisa GitHub stats](https://github-readme-stats.vercel.app/api?username=Bkaleene&show_icons=true&theme=radical)
           
           
 
