@@ -1,6 +1,6 @@
 ## Sejam bem-vindos ao meu mundo!
 
-![Oi!](https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
+[Oi!](https://media1.tenor.com/m/29Ok5pc0ivAAAAAd/gatinho-gato.gif)
 
 
 
