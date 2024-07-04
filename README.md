@@ -10,7 +10,11 @@ __________
 ___________
 <h2>Minhas tecnologias</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=20px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=20px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=20px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width=20px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=20px>
-          
+_______________________
+
+| Curso | Certificados |
+|--------------|--------------|
+| Fundamentos de Lógica de Programação | [Certificado](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hermes.dio.me/certificates/751E62AD.pdf)|
           
           
           
