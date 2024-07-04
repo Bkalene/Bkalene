@@ -7,6 +7,9 @@
 ##### Título 5
 ###### Título 6
 
+*itálico* ou _itálico_
+**negrito** ou __negrito__
+
 <!--
 **Bkalene/Bkalene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
