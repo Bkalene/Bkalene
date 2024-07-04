@@ -29,6 +29,7 @@ ___________
 | Príncipios do Git e Github | [Certificado](https://drive.google.com/file/d/1e_49XUh92KIy1mBkTPNhnx-bC7xdLacZ/view?usp=sharing) |
 | Colaboração no Github | [Certificado](https://drive.google.com/file/d/1pEH7FCBg796jZLDTLeOno25Ppf_s7BC7/view?usp=sharing) |
 | Power BI | [Certificado](https://drive.google.com/file/d/1CQr7wGnokb_rjz4nW5VTVwZUnKwhw40Q/view?usp=sharing) |
+| Introdução a Ciência de Dados | [Certificado](https://drive.google.com/file/d/1hOOo6SZhxKA9UtVQe4fBo7S1RtQHqM7i/view?usp=sharing)|
           
 ---------
 ![Brisa GitHub stats](https://github-readme-stats.vercel.app/api?username=Bkalene&show_icons=true&theme=radical)
