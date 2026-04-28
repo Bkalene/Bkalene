@@ -2,7 +2,7 @@
 
 ## 👀 Olá, me chamo Brisa Kalene! (Sim, é meu nome de verdade)
 
-### 💬 Sou estudante de Ciência de Dados na FATEC - Ourinhos e trabalho a alguns anos com Marketing Digital.
+### 💬 Sou Formada em Ciência de Dados na FATEC - Ourinhos e trabalho a algum tempo com automações com IA.
 __________
 
 📄[Acesse meu Linkedin](https://www.linkedin.com/in/brisadantas/)
